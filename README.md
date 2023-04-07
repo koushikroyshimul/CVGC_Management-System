@@ -1,4 +1,4 @@
-                                                               Cumilla Victoria Govt. College Management System
+                                                            Cumilla Victoria Govt. College Management System
 
 2. Requirements & Specifications:
 The college management system is a software application that will allow the college staff to manage various aspects of college operations such as admissions, student records, faculty records, course schedules, financial management, library management, and other administrative tasks. The system will provide real-time data access and streamline operations to improve efficiency, reduce workload and increase productivity.
